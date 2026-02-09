@@ -1,0 +1,9 @@
+
+{
+  "name": "GenCart - Next-Gen E-Commerce",
+  "description": "A high-performance e-commerce storefront with AI-powered shopping assistance, product insights, and a sleek modern UI inspired by top retailers.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
